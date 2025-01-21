@@ -1,4 +1,3 @@
-# MesObjetsCollaboratifs.md
 Bonjour, Je m'appelle **Floriane Goliot** et je suis étudiante en **DEUST BC2M W2D** au FCU de Calais
 
 Diplomée d'un **DU ADGM**, j'ai décidé de continuer mes études pour approfondir mes connaissances en graphisme et en codage.
