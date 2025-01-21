@@ -1,4 +1,13 @@
-## Hi there 👋
+# MesObjetsCollaboratifs.md
+Bonjour, Je m'appelle **Floriane Goliot** et je suis étudiante en **DEUST BC2M W2D** au FCU de Calais
+
+Diplomée d'un **DU ADGM**, j'ai décidé de continuer mes études pour approfondir mes connaissances en graphisme et en codage.
+
+J'utilise créer des sites avec le html/css et wordpress.
+
+Lors de mes stages, j'ai utilisé uniquement le logiciel libre CANVA et la suite adobe pour le graphisme.
+
+<ins>Projet etude</ins>
 
 <!--
 **Flo-Riane/Flo-Riane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
