@@ -10,6 +10,8 @@ Lors de mes stages, j'ai utilisé uniquement le logiciel libre CANVA et la suite
 
 J'ai réalisé lors de mon année ADGM un site html/css sur la série et les films *Les Rivières Pourpres*.
 
+En première année de DEUST, j'ai réaliser un site en php et un jeu en javascript qui sont toujours en cours de réalisation.
+
 <!--
 **Flo-Riane/Flo-Riane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
