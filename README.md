@@ -2,7 +2,7 @@ Bonjour, Je m'appelle **Floriane Goliot** et je suis étudiante en **DEUST BC2M 
 
 Diplomée d'un **DU ADGM**, j'ai décidé de continuer mes études pour approfondir mes connaissances en graphisme et en codage.
 
-J'utilise créer des sites avec le html/css et wordpress.
+Pour créer des sites j'utilise le html/css et wordpress.
 
 Lors de mes stages, j'ai utilisé uniquement le logiciel libre CANVA et la suite adobe pour le graphisme.
 
